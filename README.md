@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/GkLZFsD/QUEEN-LARA-BOT.png" width="300" height="300">
+  <img src="https://i.ibb.co/Pm8MPxF/QUEEN-LARA-BOT.jpg" width="300" height="300">
   <h1>👸💎 QUEEN LARA BOT 💎👸</h1>
 </div>
 <p align="center">
@@ -90,7 +90,7 @@ $ `bash <(curl -L https://t.ly/tHxh)`
 
 #### 02. Click Deploy button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CHESCOLA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
 
 
 ### ⚒️ Setup Wiki 
